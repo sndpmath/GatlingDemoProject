@@ -1,0 +1,97 @@
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="id"
+
+1123583460985649
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="dl"
+
+https://beardo.in/checkout
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="rl"
+
+https://www.google.co.in/
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="ts"
+
+1675751142861
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"LoginPopup_loginPopup__cont__middle__inputCont__loginBtn__cg9Hg grid grid---item-center white h6","destination":"https://beardo.in/checkout","id":"","imageUrl":"","innerText":"Login","numChildButtons":0,"tag":"button","type":"submit","name":"","value":""}
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Login
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"","name":"","tag":"input","placeholder":"Enter your Mobile/Email","inputType":"text"}]
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Beardo"}
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="sh"
+
+720
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="udff[ph]"
+
+103dd9d2c80d8d6716bf287bf376523e00f6705fa7adf25e869fde0e4c73164d
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="v"
+
+2.9.95
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="ec"
+
+13
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="o"
+
+2078
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="cs_est"
+
+true
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1675751085704.239747309
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="it"
+
+1675751084009
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------409738765112121756011859834729
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------409738765112121756011859834729--

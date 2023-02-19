@@ -1,0 +1,97 @@
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="id"
+
+1123583460985649
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="dl"
+
+https://beardo.in/checkout
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="rl"
+
+https://www.google.co.in/
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="ts"
+
+1675751164641
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"LoginPopup_otpLoginPopup__cont__bottom__inputCont__loginBtn__l0BSP grid grid---item-center white h6","destination":"https://beardo.in/checkout","id":"","imageUrl":"","innerText":"Confirm","numChildButtons":0,"tag":"button","type":"submit","name":"","value":""}
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Confirm
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"","name":"","tag":"input","placeholder":"0-0-0-0-0-0","inputType":"number"}]
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Beardo"}
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="sh"
+
+720
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="udff[ph]"
+
+103dd9d2c80d8d6716bf287bf376523e00f6705fa7adf25e869fde0e4c73164d
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="v"
+
+2.9.95
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="ec"
+
+14
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="o"
+
+2078
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="cs_est"
+
+true
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1675751085704.239747309
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="it"
+
+1675751084009
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------231830403913797605672258369225
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------231830403913797605672258369225--

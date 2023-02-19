@@ -1,0 +1,97 @@
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="id"
+
+1123583460985649
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="ev"
+
+SubscribedButtonClick
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="dl"
+
+https://beardo.in/checkout
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="rl"
+
+https://www.google.co.in/
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="if"
+
+false
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="ts"
+
+1675751181711
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="cd[buttonFeatures]"
+
+{"classList":"LoginPopup_loginPopup__cont__middle__inputCont__loginBtn__cg9Hg grid grid---item-center white h6","destination":"https://beardo.in/checkout","id":"","imageUrl":"","innerText":"Update","numChildButtons":0,"tag":"button","type":"submit","name":"","value":""}
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="cd[buttonText]"
+
+Update
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="cd[formFeatures]"
+
+[{"id":"","name":"","tag":"input","placeholder":"Update your Mobile/Email","inputType":"text"}]
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="cd[pageFeatures]"
+
+{"title":"Beardo"}
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="sw"
+
+1280
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="sh"
+
+720
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="udff[ph]"
+
+103dd9d2c80d8d6716bf287bf376523e00f6705fa7adf25e869fde0e4c73164d
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="v"
+
+2.9.95
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="r"
+
+stable
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="ec"
+
+15
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="o"
+
+2078
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="cs_est"
+
+true
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="fbp"
+
+fb.1.1675751085704.239747309
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="it"
+
+1675751084009
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="coo"
+
+false
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="es"
+
+automatic
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="tm"
+
+3
+-----------------------------41504143592336123271696174985
+Content-Disposition: form-data; name="rqm"
+
+SB
+-----------------------------41504143592336123271696174985--

@@ -1,0 +1,2 @@
+en=page_view&ep.page_path=%2F&_et=647
+en=view_cart&_ee=1&pr1=id2633290~qt1~k0currency~v0INR~pr299~nmBeardo%20De-Tan%20Facewash%20for%20Men~vaBDCL103&ep.page_path=%2F&ep.coupon=&epn.value=299&_et=13&cu=INR

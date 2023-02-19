@@ -1,0 +1,1 @@
+{"rid":"D8MAGKXJNXT5VGXDBGFG","sid":"258-4189255-4249552","mid":"A21TJRUUN4KGV","sn":"www.amazon.in","reqs":[{"jserr-rw":{"m":"Hit Info","csm":"v5 onerror","logLevel":"INFO","adb":"adblk_no"}},{"csmcount":{"counter":"foresterPayloadSize","t":0,"value":258}}]}
